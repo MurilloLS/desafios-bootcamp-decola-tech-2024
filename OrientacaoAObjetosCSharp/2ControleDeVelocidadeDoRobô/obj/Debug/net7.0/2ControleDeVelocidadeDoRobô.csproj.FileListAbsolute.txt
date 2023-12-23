@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\bin\Debug\net7.0\2ControleDeVelocidadeDoRobô.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\bin\Debug\net7.0\2ControleDeVelocidadeDoRobô.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\bin\Debug\net7.0\2ControleDeVelocidadeDoRobô.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\bin\Debug\net7.0\2ControleDeVelocidadeDoRobô.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\bin\Debug\net7.0\2ControleDeVelocidadeDoRobô.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\refint\2ControleDeVelocidadeDoRobô.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\2ControleDeVelocidadeDoRobô.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\2ControleDeVelocidadeDoRobô\obj\Debug\net7.0\ref\2ControleDeVelocidadeDoRobô.dll

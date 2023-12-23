@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\bin\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\bin\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\bin\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\bin\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\bin\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\refint\3SomaDeNúmerosParesEmIntervalo.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\3SomaDeNúmerosParesEmIntervalo.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\3SomaDeNúmerosParesEmIntervalo\obj\Debug\net7.0\ref\3SomaDeNúmerosParesEmIntervalo.dll

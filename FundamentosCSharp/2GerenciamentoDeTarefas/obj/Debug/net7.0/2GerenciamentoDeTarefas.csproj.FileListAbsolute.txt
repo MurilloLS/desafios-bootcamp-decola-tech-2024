@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\bin\Debug\net7.0\2GerenciamentoDeTarefas.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\bin\Debug\net7.0\2GerenciamentoDeTarefas.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\bin\Debug\net7.0\2GerenciamentoDeTarefas.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\bin\Debug\net7.0\2GerenciamentoDeTarefas.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\bin\Debug\net7.0\2GerenciamentoDeTarefas.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\refint\2GerenciamentoDeTarefas.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\2GerenciamentoDeTarefas.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\2GerenciamentoDeTarefas\obj\Debug\net7.0\ref\2GerenciamentoDeTarefas.dll

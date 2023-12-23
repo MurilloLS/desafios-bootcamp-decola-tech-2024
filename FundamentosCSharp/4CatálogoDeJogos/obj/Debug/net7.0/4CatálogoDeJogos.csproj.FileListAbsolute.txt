@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\bin\Debug\net7.0\4CatálogoDeJogos.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\bin\Debug\net7.0\4CatálogoDeJogos.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\bin\Debug\net7.0\4CatálogoDeJogos.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\bin\Debug\net7.0\4CatálogoDeJogos.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\bin\Debug\net7.0\4CatálogoDeJogos.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\refint\4CatálogoDeJogos.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\4CatálogoDeJogos.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\4CatálogoDeJogos\obj\Debug\net7.0\ref\4CatálogoDeJogos.dll

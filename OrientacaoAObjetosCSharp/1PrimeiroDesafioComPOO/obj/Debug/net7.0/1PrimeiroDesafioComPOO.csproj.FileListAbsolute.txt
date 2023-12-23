@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\bin\Debug\net7.0\1PrimeiroDesafioComPOO.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\bin\Debug\net7.0\1PrimeiroDesafioComPOO.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\bin\Debug\net7.0\1PrimeiroDesafioComPOO.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\bin\Debug\net7.0\1PrimeiroDesafioComPOO.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\bin\Debug\net7.0\1PrimeiroDesafioComPOO.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\refint\1PrimeiroDesafioComPOO.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\1PrimeiroDesafioComPOO.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\1PrimeiroDesafioComPOO\obj\Debug\net7.0\ref\1PrimeiroDesafioComPOO.dll

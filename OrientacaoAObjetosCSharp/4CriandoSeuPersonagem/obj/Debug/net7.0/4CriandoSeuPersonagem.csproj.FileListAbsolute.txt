@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\bin\Debug\net7.0\4CriandoSeuPersonagem.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\bin\Debug\net7.0\4CriandoSeuPersonagem.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\bin\Debug\net7.0\4CriandoSeuPersonagem.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\bin\Debug\net7.0\4CriandoSeuPersonagem.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\bin\Debug\net7.0\4CriandoSeuPersonagem.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\refint\4CriandoSeuPersonagem.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\4CriandoSeuPersonagem.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\4CriandoSeuPersonagem\obj\Debug\net7.0\ref\4CriandoSeuPersonagem.dll

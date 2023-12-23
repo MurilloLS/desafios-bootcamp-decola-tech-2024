@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\bin\Debug\net7.0\3CriandoUmJogadorDeFutebol.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\bin\Debug\net7.0\3CriandoUmJogadorDeFutebol.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\bin\Debug\net7.0\3CriandoUmJogadorDeFutebol.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\bin\Debug\net7.0\3CriandoUmJogadorDeFutebol.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\bin\Debug\net7.0\3CriandoUmJogadorDeFutebol.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\refint\3CriandoUmJogadorDeFutebol.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\3CriandoUmJogadorDeFutebol.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\OrientacaoAObjetosCSharp\3CriandoUmJogadorDeFutebol\obj\Debug\net7.0\ref\3CriandoUmJogadorDeFutebol.dll

@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\bin\Debug\net7.0\5CálculoDePegadaDeCarbono.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\bin\Debug\net7.0\5CálculoDePegadaDeCarbono.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\bin\Debug\net7.0\5CálculoDePegadaDeCarbono.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\bin\Debug\net7.0\5CálculoDePegadaDeCarbono.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\bin\Debug\net7.0\5CálculoDePegadaDeCarbono.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\refint\5CálculoDePegadaDeCarbono.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\5CálculoDePegadaDeCarbono.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\5CálculoDePegadaDeCarbono\obj\Debug\net7.0\ref\5CálculoDePegadaDeCarbono.dll

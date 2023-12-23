@@ -1,0 +1,14 @@
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\bin\Debug\net7.0\1RegistroDeUsuário.exe
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\bin\Debug\net7.0\1RegistroDeUsuário.deps.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\bin\Debug\net7.0\1RegistroDeUsuário.runtimeconfig.json
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\bin\Debug\net7.0\1RegistroDeUsuário.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\bin\Debug\net7.0\1RegistroDeUsuário.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.AssemblyInfoInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.AssemblyInfo.cs
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.csproj.CoreCompileInputs.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\refint\1RegistroDeUsuário.dll
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.pdb
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\1RegistroDeUsuário.genruntimeconfig.cache
+C:\Users\muril_00frcc1\Desktop\Pessoal\DIO\BOOTCAMP Decola Tech\Projetos\DesafiosDeCodigo\FundamentosCSharp\1RegistroDeUsuário\obj\Debug\net7.0\ref\1RegistroDeUsuário.dll
